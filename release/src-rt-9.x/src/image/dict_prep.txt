@@ -1,0 +1,783 @@
+﻿Load language header mapping : HdrMapping.txt
+MODEL: RT-AC3200
+gen model specified, skip
+MODEL: RT-AC87U
+gen model specified, skip
+MODEL: DSL-AC68U
+gen model specified, skip
+MODEL: RT-AC56S
+gen model specified, skip
+MODEL: RT-AC56U
+gen model specified, skip
+MODEL: RP-AC68U
+gen model specified, skip
+MODEL: RT-AC68U
+gen model specified, skip
+MODEL: RT-AC68A
+gen model specified, skip
+MODEL: 4G-AC68U
+gen model specified, skip
+MODEL: RT-AC88U
+gen model specified, skip
+MODEL: RT-AC3100
+gen model specified, skip
+MODEL: RT-AC5300
+gen model specified, skip
+MODEL: RT-AC5300R
+gen model specified, skip
+MODEL: RT-AC53U
+gen model specified, skip
+MODEL: RT-N66U
+gen model specified, skip
+MODEL: DSL-N55U
+gen model specified, skip
+MODEL: RT-N36U3
+gen model specified, skip
+MODEL: DSL-N55U-B
+gen model specified, skip
+MODEL: RT-N56U
+gen model specified, skip
+MODEL: RT-N14U
+gen model specified, skip
+MODEL: RT-AC52U
+gen model specified, skip
+MODEL: RT-AC51U
+gen model specified, skip
+MODEL: RT-AC55U
+gen model specified, skip
+MODEL: RT-AC55UHP
+gen model specified, skip
+MODEL: 4G-AC55U
+gen model specified, skip
+MODEL: PL-N12
+gen model specified, skip
+MODEL: PL-AC56
+gen model specified, skip
+MODEL: PL-AC66U
+gen model specified, skip
+MODEL: RT-N54U
+gen model specified, skip
+MODEL: RT-AC54U
+gen model specified, skip
+MODEL: RT-N56UB1
+gen model specified, skip
+MODEL: RT-N56UB2
+gen model specified, skip
+MODEL: RT-AC1200HP
+gen model specified, skip
+MODEL: RT-AC1200G
+gen model specified, skip
+MODEL: RT-AC1200G+
+gen files for this one
+DICT: EN
+LANG:EN=English
+ENUM:EN=English
+ENUM:TW=繁體中文
+ENUM:CN=简体中文
+ENUM:CZ=Česky
+ENUM:PL=Polski
+ENUM:RU=Pусский
+ENUM:DE=Deutsch
+ENUM:ES=Español
+ENUM:FR=Français
+ENUM:TR=Türkçe
+ENUM:TH=ไทย
+ENUM:MS=Malay
+ENUM:NO=Norsk
+ENUM:FI=Suomi
+ENUM:DA=Dansk
+ENUM:SV=Svensk
+ENUM:BR=Portuguese(Brazil)
+ENUM:JP=日本語
+ENUM:IT=Italiano
+ENUM:UK=Український
+ENUM:HU=Hungarian
+ENUM:RO=Romanian
+ENUM:KR=한국어
+DICT: BR
+ENUM:EN=English
+ENUM:TW=繁體中文
+ENUM:CN=简体中文
+ENUM:CZ=Česky
+ENUM:PL=Polski
+ENUM:RU=Pусский
+ENUM:DE=Deutsch
+ENUM:ES=Español
+ENUM:FR=Français
+ENUM:TR=Türkçe
+ENUM:TH=ไทย
+ENUM:MS=Malay
+ENUM:NO=Norsk
+ENUM:FI=Suomi
+ENUM:DA=Dansk
+ENUM:SV=Svensk
+LANG:BR=Portuguese(Brazil)
+ENUM:BR=Portuguese(Brazil)
+ENUM:JP=日本語
+ENUM:IT=Italiano
+ENUM:UK=Український
+ENUM:HU=Hungarian
+ENUM:RO=Romanian
+ENUM:KR=한국어
+DICT: CN
+ENUM:EN=English
+ENUM:TW=繁體中文
+LANG:CN=简体中文
+ENUM:CN=简体中文
+ENUM:CZ=Česky
+ENUM:PL=Polski
+ENUM:RU=Pусский
+ENUM:DE=Deutsch
+ENUM:ES=Español
+ENUM:FR=Français
+ENUM:TR=Türkçe
+ENUM:TH=ไทย
+ENUM:MS=Malay
+ENUM:NO=Norsk
+ENUM:FI=Suomi
+ENUM:DA=Dansk
+ENUM:SV=Svensk
+ENUM:BR=Portuguese(Brazil)
+ENUM:JP=日本語
+ENUM:IT=Italiano
+ENUM:UK=Український
+ENUM:HU=Hungarian
+ENUM:RO=Romanian
+ENUM:KR=한국어
+DICT: CZ
+ENUM:EN=English
+ENUM:TW=繁體中文
+ENUM:CN=简体中文
+LANG:CZ=Česky
+ENUM:CZ=Česky
+ENUM:PL=Polski
+ENUM:RU=Pусский
+ENUM:DE=Deutsch
+ENUM:ES=Español
+ENUM:FR=Français
+ENUM:TR=Türkçe
+ENUM:TH=ไทย
+ENUM:MS=Malay
+ENUM:NO=Norsk
+ENUM:FI=Suomi
+ENUM:DA=Dansk
+ENUM:SV=Svensk
+ENUM:BR=Portuguese(Brazil)
+ENUM:JP=日本語
+ENUM:IT=Italiano
+ENUM:UK=Український
+ENUM:HU=Hungarian
+ENUM:RO=Romanian
+ENUM:KR=한국어
+DICT: DA
+ENUM:EN=English
+ENUM:TW=繁體中文
+ENUM:CN=简体中文
+ENUM:CZ=Česky
+ENUM:PL=Polski
+ENUM:RU=Pусский
+ENUM:DE=Deutsch
+ENUM:ES=Español
+ENUM:FR=Français
+ENUM:TR=Türkçe
+ENUM:TH=ไทย
+ENUM:MS=Malay
+ENUM:NO=Norsk
+ENUM:FI=Suomi
+LANG:DA=Dansk
+ENUM:DA=Dansk
+ENUM:SV=Svensk
+ENUM:BR=Portuguese(Brazil)
+ENUM:JP=日本語
+ENUM:IT=Italiano
+ENUM:UK=Український
+ENUM:HU=Hungarian
+ENUM:RO=Romanian
+ENUM:KR=한국어
+DICT: DE
+ENUM:EN=English
+ENUM:TW=繁體中文
+ENUM:CN=简体中文
+ENUM:CZ=Česky
+ENUM:PL=Polski
+ENUM:RU=Pусский
+LANG:DE=Deutsch
+ENUM:DE=Deutsch
+ENUM:ES=Español
+ENUM:FR=Français
+ENUM:TR=Türkçe
+ENUM:TH=ไทย
+ENUM:MS=Malay
+ENUM:NO=Norsk
+ENUM:FI=Suomi
+ENUM:DA=Dansk
+ENUM:SV=Svensk
+ENUM:BR=Portuguese(Brazil)
+ENUM:JP=日本語
+ENUM:IT=Italiano
+ENUM:UK=Український
+ENUM:HU=Hungarian
+ENUM:RO=Romanian
+ENUM:KR=한국어
+DICT: ES
+ENUM:EN=English
+ENUM:TW=繁體中文
+ENUM:CN=简体中文
+ENUM:CZ=Česky
+ENUM:PL=Polski
+ENUM:RU=Pусский
+ENUM:DE=Deutsch
+LANG:ES=Español
+ENUM:ES=Español
+ENUM:FR=Français
+ENUM:TR=Türkçe
+ENUM:TH=ไทย
+ENUM:MS=Malay
+ENUM:NO=Norsk
+ENUM:FI=Suomi
+ENUM:DA=Dansk
+ENUM:SV=Svensk
+ENUM:BR=Portuguese(Brazil)
+ENUM:JP=日本語
+ENUM:IT=Italiano
+ENUM:UK=Український
+ENUM:HU=Hungarian
+ENUM:RO=Romanian
+ENUM:KR=한국어
+DICT: FI
+ENUM:EN=English
+ENUM:TW=繁體中文
+ENUM:CN=简体中文
+ENUM:CZ=Česky
+ENUM:PL=Polski
+ENUM:RU=Pусский
+ENUM:DE=Deutsch
+ENUM:ES=Español
+ENUM:FR=Français
+ENUM:TR=Türkçe
+ENUM:TH=ไทย
+ENUM:MS=Malay
+ENUM:NO=Norsk
+LANG:FI=Suomi
+ENUM:FI=Suomi
+ENUM:DA=Dansk
+ENUM:SV=Svensk
+ENUM:BR=Portuguese(Brazil)
+ENUM:JP=日本語
+ENUM:IT=Italiano
+ENUM:UK=Український
+ENUM:HU=Hungarian
+ENUM:RO=Romanian
+ENUM:KR=한국어
+DICT: FR
+ENUM:EN=English
+ENUM:TW=繁體中文
+ENUM:CN=简体中文
+ENUM:CZ=Česky
+ENUM:PL=Polski
+ENUM:RU=Pусский
+ENUM:DE=Deutsch
+ENUM:ES=Español
+LANG:FR=Français
+ENUM:FR=Français
+ENUM:TR=Türkçe
+ENUM:TH=ไทย
+ENUM:MS=Malay
+ENUM:NO=Norsk
+ENUM:FI=Suomi
+ENUM:DA=Dansk
+ENUM:SV=Svensk
+ENUM:BR=Portuguese(Brazil)
+ENUM:JP=日本語
+ENUM:IT=Italiano
+ENUM:UK=Український
+ENUM:HU=Hungarian
+ENUM:RO=Romanian
+ENUM:KR=한국어
+DICT: HU
+ENUM:EN=English
+ENUM:TW=繁體中文
+ENUM:CN=简体中文
+ENUM:CZ=Česky
+ENUM:PL=Polski
+ENUM:RU=Pусский
+ENUM:DE=Deutsch
+ENUM:ES=Español
+ENUM:FR=Français
+ENUM:TR=Türkçe
+ENUM:TH=ไทย
+ENUM:MS=Malay
+ENUM:NO=Norsk
+ENUM:FI=Suomi
+ENUM:DA=Dansk
+ENUM:SV=Svensk
+ENUM:BR=Portuguese(Brazil)
+ENUM:JP=日本語
+ENUM:IT=Italiano
+ENUM:UK=Український
+LANG:HU=Hungarian
+ENUM:HU=Hungarian
+ENUM:RO=Romanian
+ENUM:KR=한국어
+DICT: IT
+ENUM:EN=English
+ENUM:TW=繁體中文
+ENUM:CN=简体中文
+ENUM:CZ=Česky
+ENUM:PL=Polski
+ENUM:RU=Pусский
+ENUM:DE=Deutsch
+ENUM:ES=Español
+ENUM:FR=Français
+ENUM:TR=Türkçe
+ENUM:TH=ไทย
+ENUM:MS=Malay
+ENUM:NO=Norsk
+ENUM:FI=Suomi
+ENUM:DA=Dansk
+ENUM:SV=Svensk
+ENUM:BR=Portuguese(Brazil)
+ENUM:JP=日本語
+LANG:IT=Italiano
+ENUM:IT=Italiano
+ENUM:UK=Український
+ENUM:HU=Hungarian
+ENUM:RO=Romanian
+ENUM:KR=한국어
+DICT: MS
+ENUM:EN=English
+ENUM:TW=繁體中文
+ENUM:CN=简体中文
+ENUM:CZ=Česky
+ENUM:PL=Polski
+ENUM:RU=Pусский
+ENUM:DE=Deutsch
+ENUM:ES=Español
+ENUM:FR=Français
+ENUM:TR=Türkçe
+ENUM:TH=ไทย
+LANG:MS=Malay
+ENUM:MS=Malay
+ENUM:NO=Norsk
+ENUM:FI=Suomi
+ENUM:DA=Dansk
+ENUM:SV=Svensk
+ENUM:BR=Portuguese(Brazil)
+ENUM:JP=日本語
+ENUM:IT=Italiano
+ENUM:UK=Український
+ENUM:HU=Hungarian
+ENUM:RO=Romanian
+ENUM:KR=한국어
+DICT: NO
+ENUM:EN=English
+ENUM:TW=繁體中文
+ENUM:CN=简体中文
+ENUM:CZ=Česky
+ENUM:PL=Polski
+ENUM:RU=Pусский
+ENUM:DE=Deutsch
+ENUM:ES=Español
+ENUM:FR=Français
+ENUM:TR=Türkçe
+ENUM:TH=ไทย
+ENUM:MS=Malay
+LANG:NO=Norsk
+ENUM:NO=Norsk
+ENUM:FI=Suomi
+ENUM:DA=Dansk
+ENUM:SV=Svensk
+ENUM:BR=Portuguese(Brazil)
+ENUM:JP=日本語
+ENUM:IT=Italiano
+ENUM:UK=Український
+ENUM:HU=Hungarian
+ENUM:RO=Romanian
+ENUM:KR=한국어
+DICT: PL
+ENUM:EN=English
+ENUM:TW=繁體中文
+ENUM:CN=简体中文
+ENUM:CZ=Česky
+LANG:PL=Polski
+ENUM:PL=Polski
+ENUM:RU=Pусский
+ENUM:DE=Deutsch
+ENUM:ES=Español
+ENUM:FR=Français
+ENUM:TR=Türkçe
+ENUM:TH=ไทย
+ENUM:MS=Malay
+ENUM:NO=Norsk
+ENUM:FI=Suomi
+ENUM:DA=Dansk
+ENUM:SV=Svensk
+ENUM:BR=Portuguese(Brazil)
+ENUM:JP=日本語
+ENUM:IT=Italiano
+ENUM:UK=Український
+ENUM:HU=Hungarian
+ENUM:RO=Romanian
+ENUM:KR=한국어
+DICT: RO
+ENUM:EN=English
+ENUM:TW=繁體中文
+ENUM:CN=简体中文
+ENUM:CZ=Česky
+ENUM:PL=Polski
+ENUM:RU=Pусский
+ENUM:DE=Deutsch
+ENUM:ES=Español
+ENUM:FR=Français
+ENUM:TR=Türkçe
+ENUM:TH=ไทย
+ENUM:MS=Malay
+ENUM:NO=Norsk
+ENUM:FI=Suomi
+ENUM:DA=Dansk
+ENUM:SV=Svensk
+ENUM:BR=Portuguese(Brazil)
+ENUM:JP=日本語
+ENUM:IT=Italiano
+ENUM:UK=Український
+ENUM:HU=Hungarian
+LANG:RO=Romanian
+ENUM:RO=Romanian
+ENUM:KR=한국어
+DICT: RU
+ENUM:EN=English
+ENUM:TW=繁體中文
+ENUM:CN=简体中文
+ENUM:CZ=Česky
+ENUM:PL=Polski
+LANG:RU=Pусский
+ENUM:RU=Pусский
+ENUM:DE=Deutsch
+ENUM:ES=Español
+ENUM:FR=Français
+ENUM:TR=Türkçe
+ENUM:TH=ไทย
+ENUM:MS=Malay
+ENUM:NO=Norsk
+ENUM:FI=Suomi
+ENUM:DA=Dansk
+ENUM:SV=Svensk
+ENUM:BR=Portuguese(Brazil)
+ENUM:JP=日本語
+ENUM:IT=Italiano
+ENUM:UK=Український
+ENUM:HU=Hungarian
+ENUM:RO=Romanian
+ENUM:KR=한국어
+DICT: SV
+ENUM:EN=English
+ENUM:TW=繁體中文
+ENUM:CN=简体中文
+ENUM:CZ=Česky
+ENUM:PL=Polski
+ENUM:RU=Pусский
+ENUM:DE=Deutsch
+ENUM:ES=Español
+ENUM:FR=Français
+ENUM:TR=Türkçe
+ENUM:TH=ไทย
+ENUM:MS=Malay
+ENUM:NO=Norsk
+ENUM:FI=Suomi
+ENUM:DA=Dansk
+LANG:SV=Svensk
+ENUM:SV=Svensk
+ENUM:BR=Portuguese(Brazil)
+ENUM:JP=日本語
+ENUM:IT=Italiano
+ENUM:UK=Український
+ENUM:HU=Hungarian
+ENUM:RO=Romanian
+ENUM:KR=한국어
+DICT: TH
+ENUM:EN=English
+ENUM:TW=繁體中文
+ENUM:CN=简体中文
+ENUM:CZ=Česky
+ENUM:PL=Polski
+ENUM:RU=Pусский
+ENUM:DE=Deutsch
+ENUM:ES=Español
+ENUM:FR=Français
+ENUM:TR=Türkçe
+LANG:TH=ไทย
+ENUM:TH=ไทย
+ENUM:MS=Malay
+ENUM:NO=Norsk
+ENUM:FI=Suomi
+ENUM:DA=Dansk
+ENUM:SV=Svensk
+ENUM:BR=Portuguese(Brazil)
+ENUM:JP=日本語
+ENUM:IT=Italiano
+ENUM:UK=Український
+ENUM:HU=Hungarian
+ENUM:RO=Romanian
+ENUM:KR=한국어
+DICT: TR
+ENUM:EN=English
+ENUM:TW=繁體中文
+ENUM:CN=简体中文
+ENUM:CZ=Česky
+ENUM:PL=Polski
+ENUM:RU=Pусский
+ENUM:DE=Deutsch
+ENUM:ES=Español
+ENUM:FR=Français
+LANG:TR=Türkçe
+ENUM:TR=Türkçe
+ENUM:TH=ไทย
+ENUM:MS=Malay
+ENUM:NO=Norsk
+ENUM:FI=Suomi
+ENUM:DA=Dansk
+ENUM:SV=Svensk
+ENUM:BR=Portuguese(Brazil)
+ENUM:JP=日本語
+ENUM:IT=Italiano
+ENUM:UK=Український
+ENUM:HU=Hungarian
+ENUM:RO=Romanian
+ENUM:KR=한국어
+DICT: TW
+ENUM:EN=English
+LANG:TW=繁體中文
+ENUM:TW=繁體中文
+ENUM:CN=简体中文
+ENUM:CZ=Česky
+ENUM:PL=Polski
+ENUM:RU=Pусский
+ENUM:DE=Deutsch
+ENUM:ES=Español
+ENUM:FR=Français
+ENUM:TR=Türkçe
+ENUM:TH=ไทย
+ENUM:MS=Malay
+ENUM:NO=Norsk
+ENUM:FI=Suomi
+ENUM:DA=Dansk
+ENUM:SV=Svensk
+ENUM:BR=Portuguese(Brazil)
+ENUM:JP=日本語
+ENUM:IT=Italiano
+ENUM:UK=Український
+ENUM:HU=Hungarian
+ENUM:RO=Romanian
+ENUM:KR=한국어
+DICT: UK
+ENUM:EN=English
+ENUM:TW=繁體中文
+ENUM:CN=简体中文
+ENUM:CZ=Česky
+ENUM:PL=Polski
+ENUM:RU=Pусский
+ENUM:DE=Deutsch
+ENUM:ES=Español
+ENUM:FR=Français
+ENUM:TR=Türkçe
+ENUM:TH=ไทย
+ENUM:MS=Malay
+ENUM:NO=Norsk
+ENUM:FI=Suomi
+ENUM:DA=Dansk
+ENUM:SV=Svensk
+ENUM:BR=Portuguese(Brazil)
+ENUM:JP=日本語
+ENUM:IT=Italiano
+LANG:UK=Український
+ENUM:UK=Український
+ENUM:HU=Hungarian
+ENUM:RO=Romanian
+ENUM:KR=한국어
+get modem_dep lang item name to array
+temp.dict
+Pass 1 - Model dep strings : 5
+It is EN.dict and will generate enum list
+Check duplicated strang and empty line
+**** Validating ****  /home/zheng/asuswrt/release/src-rt-9.x/src/router/arm-uclibc/install/www/www/EN.dict
+Src File Failget modem_dep lang item name to array
+temp.dict
+Pass 1 - Model dep strings : 0
+error conv, open not exist? BR
+Src File FailCheck duplicated strang and empty line
+**** Validating ****  /home/zheng/asuswrt/release/src-rt-9.x/src/router/arm-uclibc/install/www/www/BR.dict
+error conv, open not exist? BR
+get modem_dep lang item name to array
+temp.dict
+Pass 1 - Model dep strings : 5
+Check duplicated strang and empty line
+**** Validating ****  /home/zheng/asuswrt/release/src-rt-9.x/src/router/arm-uclibc/install/www/www/CN.dict
+Src File Failget modem_dep lang item name to array
+temp.dict
+Pass 1 - Model dep strings : 0
+error conv, open not exist? CZ
+Src File FailCheck duplicated strang and empty line
+**** Validating ****  /home/zheng/asuswrt/release/src-rt-9.x/src/router/arm-uclibc/install/www/www/CZ.dict
+error conv, open not exist? CZ
+Src File Failget modem_dep lang item name to array
+temp.dict
+Pass 1 - Model dep strings : 0
+error conv, open not exist? DA
+Src File FailCheck duplicated strang and empty line
+**** Validating ****  /home/zheng/asuswrt/release/src-rt-9.x/src/router/arm-uclibc/install/www/www/DA.dict
+error conv, open not exist? DA
+Src File Failget modem_dep lang item name to array
+temp.dict
+Pass 1 - Model dep strings : 0
+error conv, open not exist? DE
+Src File FailCheck duplicated strang and empty line
+**** Validating ****  /home/zheng/asuswrt/release/src-rt-9.x/src/router/arm-uclibc/install/www/www/DE.dict
+error conv, open not exist? DE
+Src File Failget modem_dep lang item name to array
+temp.dict
+Pass 1 - Model dep strings : 0
+error conv, open not exist? ES
+Src File FailCheck duplicated strang and empty line
+**** Validating ****  /home/zheng/asuswrt/release/src-rt-9.x/src/router/arm-uclibc/install/www/www/ES.dict
+error conv, open not exist? ES
+Src File Failget modem_dep lang item name to array
+temp.dict
+Pass 1 - Model dep strings : 0
+error conv, open not exist? FI
+Src File FailCheck duplicated strang and empty line
+**** Validating ****  /home/zheng/asuswrt/release/src-rt-9.x/src/router/arm-uclibc/install/www/www/FI.dict
+error conv, open not exist? FI
+Src File Failget modem_dep lang item name to array
+temp.dict
+Pass 1 - Model dep strings : 0
+error conv, open not exist? FR
+Src File FailCheck duplicated strang and empty line
+**** Validating ****  /home/zheng/asuswrt/release/src-rt-9.x/src/router/arm-uclibc/install/www/www/FR.dict
+error conv, open not exist? FR
+Src File Failget modem_dep lang item name to array
+temp.dict
+Pass 1 - Model dep strings : 0
+error conv, open not exist? HU
+Src File FailCheck duplicated strang and empty line
+**** Validating ****  /home/zheng/asuswrt/release/src-rt-9.x/src/router/arm-uclibc/install/www/www/HU.dict
+error conv, open not exist? HU
+Src File Failget modem_dep lang item name to array
+temp.dict
+Pass 1 - Model dep strings : 0
+error conv, open not exist? IT
+Src File FailCheck duplicated strang and empty line
+**** Validating ****  /home/zheng/asuswrt/release/src-rt-9.x/src/router/arm-uclibc/install/www/www/IT.dict
+error conv, open not exist? IT
+Src File Failget modem_dep lang item name to array
+temp.dict
+Pass 1 - Model dep strings : 0
+error conv, open not exist? MS
+Src File FailCheck duplicated strang and empty line
+**** Validating ****  /home/zheng/asuswrt/release/src-rt-9.x/src/router/arm-uclibc/install/www/www/MS.dict
+error conv, open not exist? MS
+Src File Failget modem_dep lang item name to array
+temp.dict
+Pass 1 - Model dep strings : 0
+error conv, open not exist? NO
+Src File FailCheck duplicated strang and empty line
+**** Validating ****  /home/zheng/asuswrt/release/src-rt-9.x/src/router/arm-uclibc/install/www/www/NO.dict
+error conv, open not exist? NO
+Src File Failget modem_dep lang item name to array
+temp.dict
+Pass 1 - Model dep strings : 0
+error conv, open not exist? PL
+Src File FailCheck duplicated strang and empty line
+**** Validating ****  /home/zheng/asuswrt/release/src-rt-9.x/src/router/arm-uclibc/install/www/www/PL.dict
+error conv, open not exist? PL
+Src File Failget modem_dep lang item name to array
+temp.dict
+Pass 1 - Model dep strings : 0
+error conv, open not exist? RO
+Src File FailCheck duplicated strang and empty line
+**** Validating ****  /home/zheng/asuswrt/release/src-rt-9.x/src/router/arm-uclibc/install/www/www/RO.dict
+error conv, open not exist? RO
+Src File Failget modem_dep lang item name to array
+temp.dict
+Pass 1 - Model dep strings : 0
+error conv, open not exist? RU
+Src File FailCheck duplicated strang and empty line
+**** Validating ****  /home/zheng/asuswrt/release/src-rt-9.x/src/router/arm-uclibc/install/www/www/RU.dict
+error conv, open not exist? RU
+Src File Failget modem_dep lang item name to array
+temp.dict
+Pass 1 - Model dep strings : 0
+error conv, open not exist? SV
+Src File FailCheck duplicated strang and empty line
+**** Validating ****  /home/zheng/asuswrt/release/src-rt-9.x/src/router/arm-uclibc/install/www/www/SV.dict
+error conv, open not exist? SV
+Src File Failget modem_dep lang item name to array
+temp.dict
+Pass 1 - Model dep strings : 0
+error conv, open not exist? TH
+Src File FailCheck duplicated strang and empty line
+**** Validating ****  /home/zheng/asuswrt/release/src-rt-9.x/src/router/arm-uclibc/install/www/www/TH.dict
+error conv, open not exist? TH
+Src File Failget modem_dep lang item name to array
+temp.dict
+Pass 1 - Model dep strings : 0
+error conv, open not exist? TR
+Src File FailCheck duplicated strang and empty line
+**** Validating ****  /home/zheng/asuswrt/release/src-rt-9.x/src/router/arm-uclibc/install/www/www/TR.dict
+error conv, open not exist? TR
+Src File Failget modem_dep lang item name to array
+temp.dict
+Pass 1 - Model dep strings : 0
+error conv, open not exist? TW
+Src File FailCheck duplicated strang and empty line
+**** Validating ****  /home/zheng/asuswrt/release/src-rt-9.x/src/router/arm-uclibc/install/www/www/TW.dict
+error conv, open not exist? TW
+Src File Failget modem_dep lang item name to array
+temp.dict
+Pass 1 - Model dep strings : 0
+error conv, open not exist? UK
+Src File FailCheck duplicated strang and empty line
+**** Validating ****  /home/zheng/asuswrt/release/src-rt-9.x/src/router/arm-uclibc/install/www/www/UK.dict
+error conv, open not exist? UK
+MODEL: RT-N65U
+gen model specified, skip
+MODEL: RT-AC66U
+gen model specified, skip
+MODEL: RT-N53
+gen model specified, skip
+MODEL: RT-N16
+gen model specified, skip
+MODEL: RT-N18U
+gen model specified, skip
+MODEL: RT-N15U
+gen model specified, skip
+MODEL: RT-N12
+gen model specified, skip
+MODEL: RT-N12B1
+gen model specified, skip
+MODEL: RT-N12C1
+gen model specified, skip
+MODEL: RT-N12D1
+gen model specified, skip
+MODEL: RT-N12VP
+gen model specified, skip
+MODEL: RT-N12HP
+gen model specified, skip
+MODEL: RT-N12HP_B1
+gen model specified, skip
+MODEL: RT-N10U
+gen model specified, skip
+MODEL: RT-N14UHP
+gen model specified, skip
+MODEL: RT-N10+
+gen model specified, skip
+MODEL: RT-N10D1
+gen model specified, skip
+MODEL: RT-N10P
+gen model specified, skip
+MODEL: RT-N10PV2
+gen model specified, skip
+MODEL: RT-N11P
+gen model specified, skip
+MODEL: RT-N300
+gen model specified, skip
+Done!

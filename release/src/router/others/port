@@ -1,0 +1,2 @@
+#!/bin/sh
+robocfg vlan reset vlan 1 ports "3 4 8t" vlan 2 ports "0 1 2 8u"

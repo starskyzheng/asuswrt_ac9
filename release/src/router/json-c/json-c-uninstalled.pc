@@ -1,0 +1,11 @@
+prefix=
+exec_prefix=
+libdir=/home/zheng/asuswrt/release/src-rt-9.x/src/router/json-c
+includedir=/home/zheng/asuswrt/release/src-rt-9.x/src/router/json-c
+
+Name: json
+Description: JSON implementation in C
+Version: 0.12
+Requires:
+Libs:  -L/home/zheng/asuswrt/release/src-rt-9.x/src/router/json-c -ljson-c
+Cflags: -I/home/zheng/asuswrt/release/src-rt-9.x/src/router/json-c
